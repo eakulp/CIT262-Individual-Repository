@@ -1,0 +1,19 @@
+{
+  "name": "eknode-project",
+  "version": "1.0.0",
+  "description": "NodeJS first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eakulp/CIT262-Individual-Repository.git"
+  },
+  "author": "Eymi Kulp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eakulp/CIT262-Individual-Repository/issues"
+  },
+  "homepage": "https://github.com/eakulp/CIT262-Individual-Repository#readme"
+}
