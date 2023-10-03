@@ -4,7 +4,8 @@
   "description": "NodeJS first project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "hello":"node helloworld.js"
+    
   },
   "repository": {
     "type": "git",
@@ -16,4 +17,5 @@
     "url": "https://github.com/eakulp/CIT262-Individual-Repository/issues"
   },
   "homepage": "https://github.com/eakulp/CIT262-Individual-Repository#readme"
+
 }
